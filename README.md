@@ -91,6 +91,14 @@ Designed **mobile-first** (bottom navigation on phones, sidebar on desktop), ins
 
 🔗 [Live app](https://our-memory-web-full-version.vercel.app)
 
+### 🔮 [Tử Vi Lá Số — AI Birth Chart Reader](https://github.com/NgocElsa05/tuvilaso)
+
+A web app that turns a **Tử Vi (Vietnamese Purple Star astrology) birth chart** into a personalised four-chapter report, written by an AI that may only reason from a classic reference book.
+
+I designed the **content and user journey**: an **age-aware context survey** before the reading, advice rewritten for four life stages, a report with a jump-to table of contents, a daily "what to do today" page, and **guest-friendly privacy** where nothing is kept unless the user signs in. Built through **vibe coding**, with a Vietnamese interface for Vietnamese users.
+
+`Content Design` `Conversational UX` `Prompt Design` `Privacy by Design` `Python` `OpenAI / Gemini` `Turso`
+
 ### 📈 [Algothon 2026 — Trading Strategy](https://github.com/ElsaNgoc/algothon26-starter-code)
 
 Our team's entry for the **Susquehanna x UNSW FinTech Society Algothon 2026**, an algorithmic trading hackathon.
