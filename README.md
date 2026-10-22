@@ -10,22 +10,22 @@ I'm currently growing my skills in **UX research, design systems, business & des
 
 ## 🎯 What I Do
 
-* 🎨 **UX/UI Design**: user flows, information architecture, wireframe to UI translation, mobile first and responsive layouts, theming and typography
-* 🧭 **Design & Business Analysis**: stakeholder requirements, personas, page specifications, KPI and dashboard definitions, gap analysis between design and build
-* ⚡ **Vibe Coding / AI Assisted Development**: turning specs into working prototypes fast with AI pair programming, while keeping a written change log of what the AI built and why
-* 🧪 **Rapid Prototyping**: clickable, deployed prototypes for user testing and stakeholder demos
-* 🌏 **Localisation (i18n)**: multilingual interfaces (English, Bahasa Indonesia, and typography that renders Vietnamese correctly)
+* **UX/UI Design**: user flows, information architecture, wireframe to UI translation, mobile first and responsive layouts, theming and typography
+* **Design & Business Analysis**: stakeholder requirements, personas, page specifications, KPI and dashboard definitions, gap analysis between design and build
+* **Vibe Coding / AI Assisted Development**: turning specs into working prototypes fast with AI pair programming, while keeping a written change log of what the AI built and why
+* **Rapid Prototyping**: clickable, deployed prototypes for user testing and stakeholder demos
+* **Localisation (i18n)**: multilingual interfaces (English, Bahasa Indonesia, and typography that renders Vietnamese correctly)
 
 ## 🚀 Areas I'm Interested In
 
-* 🖌️ Product Design & UX Research
-* 📐 Design Systems & UI Theming
-* 📋 Business Analysis & Requirements Engineering
-* 📊 Dashboards, KPIs & Data Informed Design
-* 🤖 AI Assisted Product Development (Vibe Coding)
-* 📱 Mobile First & Progressive Web Apps
-* 🎓 EdTech & Learning Experience Design
-* ♿ Accessibility & Inclusive Design
+* Product Design & UX Research
+* Design Systems & UI Theming
+* Business Analysis & Requirements Engineering
+* Dashboards, KPIs & Data Informed Design
+* AI Assisted Product Development (Vibe Coding)
+* Mobile First & Progressive Web Apps
+* EdTech & Learning Experience Design
+* Accessibility & Inclusive Design
 
 ## 🛠️ Toolkit
 
@@ -119,13 +119,13 @@ I refined the **UX/UI** and improved the **report logic** so it surfaces clearer
 
 ## 📖 Learning & Coursework
 
-* 🧾 [Personal Expense Tracker](https://github.com/ElsaNgoc/personal-expense-tracker): my first IS / Business Analysis project, a simple budgeting web app concept
-* 🧠 [Practical 2: Neural Networks on MNIST](https://github.com/ElsaNgoc/practical-2): university practical on dataset exploration and a first neural network classifier
+* [Personal Expense Tracker](https://github.com/ElsaNgoc/personal-expense-tracker): my first IS / Business Analysis project, a simple budgeting web app concept
+* [Practical 2: Neural Networks on MNIST](https://github.com/ElsaNgoc/practical-2): university practical on dataset exploration and a first neural network classifier
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: [Ha Bao Ngoc Dang](https://www.linkedin.com/in/ha-bao-ngoc-dang/)
-* ✉️ Email: [elsa.eira05@gmail.com](mailto:elsa.eira05@gmail.com)
-* 📍 Sydney, Australia
+* LinkedIn: [Ha Bao Ngoc Dang](https://www.linkedin.com/in/ha-bao-ngoc-dang/)
+* Email: [elsa.eira05@gmail.com](mailto:elsa.eira05@gmail.com)
+* Sydney, Australia
 
 I'm always happy to chat about **UX/UI design, business analysis, product prototyping and building with AI** ✨
