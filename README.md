@@ -49,27 +49,7 @@ I'm currently growing my skills in **UX research, design systems, business & des
 
 `Vercel` `Git` `GitHub` `Capacitor (iOS)` `PWA`
 
-## 🌟 Featured Projects
-
-### ♿ [Reachable: Accessible Journey Planner](https://github.com/NhatNguyen3001/Sym-AI-Hackathon-Reachable)
-
-An **AI powered, step free trip planner for Greater Sydney**, built by our team for **Sym AI Open 2026** at Macquarie University. It plans the whole trip, including the walk or roll at each end, checks live station lifts, and explains slopes in plain words such as "Easy slope" or "A bit tiring".
-
-My focus was the **UX/UI of the web app**: a **map first navigation** with hazard pins, trip choices placed directly on the map, a mobile friendly layout with corner controls and a hidden route key, colour coded train lines with dashed walks and solid rides, and **step by step spoken guidance** once a trip starts.
-
-`Accessibility` `Inclusive Design` `Map UX` `Mobile UX` `Voice Guidance` `Next.js` `Hackathon`
-
-🔗 [Live showcase](https://reachable-five.vercel.app)
-
-### 🎓 [Sinaptik Mentor Portal: UX Prototype](https://github.com/ElsaNgoc/sinaptik_prototype)
-
-A **mentor (instructor) portal prototype** for the EdTech company Sinaptik, designed around the problem of *fragmented collaboration* between learners, mentors and AI grading.
-
-I mapped the **end to end user flows**, wrote the **page specification and Figma alignment review**, defined the **dashboard KPIs**, and built most of the prototype: a triage dashboard, task calendar, learner profiles, AI assisted marking, inbox and chat, with **English / Bahasa Indonesia** switching and a **mobile UI adaptation plan**.
-
-`UX Design` `User Flows` `Figma → Code` `Dashboard Design` `i18n` `React` `TypeScript` `Tailwind CSS`
-
-🔗 [Live prototype](https://sinaptik-prototype.vercel.app)
+## 🌟 Personal Projects
 
 ### 📚 [ComicWeb: Comic Reading Platform & CMS](https://github.com/ElsaNgoc/ComicWeb)
 
@@ -99,6 +79,28 @@ Designed **mobile first** (bottom navigation on phones, sidebar on desktop), ins
 
 🔗 [Live app](https://our-memory-web-full-version.vercel.app)
 
+## 🤝 Team Collaborations
+
+### ♿ [Reachable: Accessible Journey Planner](https://github.com/NhatNguyen3001/Sym-AI-Hackathon-Reachable)
+
+An **AI powered, step free trip planner for Greater Sydney**, built by our team for **Sym AI Open 2026** at Macquarie University. It plans the whole trip, including the walk or roll at each end, checks live station lifts, and explains slopes in plain words such as "Easy slope" or "A bit tiring".
+
+My focus was the **UX/UI of the web app**: a **map first navigation** with hazard pins, trip choices placed directly on the map, a mobile friendly layout with corner controls and a hidden route key, colour coded train lines with dashed walks and solid rides, and **step by step spoken guidance** once a trip starts.
+
+`Accessibility` `Inclusive Design` `Map UX` `Mobile UX` `Voice Guidance` `Next.js` `Hackathon`
+
+🔗 [Live showcase](https://reachable-five.vercel.app)
+
+### 🎓 [Sinaptik Mentor Portal: UX Prototype](https://github.com/ElsaNgoc/sinaptik_prototype)
+
+A **mentor (instructor) portal prototype** built by our team for the EdTech company Sinaptik, designed around the problem of *fragmented collaboration* between learners, mentors and AI grading.
+
+I mapped the **end to end user flows**, wrote the **page specification and Figma alignment review**, defined the **dashboard KPIs**, and built most of the prototype: a triage dashboard, task calendar, learner profiles, AI assisted marking, inbox and chat, with **English / Bahasa Indonesia** switching and a **mobile UI adaptation plan**.
+
+`UX Design` `User Flows` `Figma → Code` `Dashboard Design` `i18n` `React` `TypeScript` `Tailwind CSS`
+
+🔗 [Live prototype](https://sinaptik-prototype.vercel.app)
+
 ### 📈 [Algothon 2026: Trading Strategy](https://github.com/ElsaNgoc/algothon26-starter-code)
 
 Our team's entry for the **Susquehanna x UNSW FinTech Society Algothon 2026**, an algorithmic trading hackathon.
@@ -107,9 +109,13 @@ I developed the strategy through **AI assisted iteration**, documenting every ex
 
 `Analytical Thinking` `Experiment Tracking` `Vibe Coding` `Python` `NumPy` `pandas`
 
-## 🤝 Team Collaborations
+### 🌱 [Lifechanger Impact AI](https://github.com/NhatNguyen3001/LaTeam--LifeChanger)
 
-* 🌱 [Lifechanger Impact AI](https://github.com/NhatNguyen3001/LaTeam--LifeChanger): a conversational analytics assistant for a youth mentoring nonprofit, with inline dashboards and impact reports. I refined the **UX/UI** and improved the **report logic** so it surfaces clearer insights.
+A **conversational analytics assistant** for a youth mentoring nonprofit, with inline dashboards and impact reports.
+
+I refined the **UX/UI** and improved the **report logic** so it surfaces clearer insights.
+
+`UX/UI Design` `Conversational UX` `Dashboard Design`
 
 ## 📖 Learning & Coursework
 
